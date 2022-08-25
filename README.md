@@ -7,6 +7,12 @@ Use this instead.
 A collection of CSS classes so you don't have to learn CSS.
 
 
+## Usage
+
+```html
+<div class='border-1px-solid-red background-color-blue font-size-1rem'>So easy! Now I don't need to learn CSS!</div>
+```
+
 ## Borders
 
 ```
