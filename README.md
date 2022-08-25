@@ -47,3 +47,10 @@ Coming soon.
 Give us stars and we'll pay someone to write out all 32,000 classes. 
 
 Then all you have to do is learn them all.
+
+
+
+## Or
+
+It might be faster and more fun to just learn CSS. You can get help on the CSS Discord https://discord.gg/pFc6XmH
+
