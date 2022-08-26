@@ -7,13 +7,29 @@ Use this instead.
 A collection of CSS classes so you don't have to learn CSS.
 
 
+&#x200B;
+
+
 ## Usage
 
 ```html
 <div class='border-1px-solid-red background-color-blue font-size-1rem'>So easy! Now I don't need to learn CSS!</div>
 ```
 
-## Borders
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+## Our secret technology
+
+...behind the scenes
+
+
+
+
+### Borders
 
 ```
 .border-1px-solid-black {
@@ -30,7 +46,7 @@ A collection of CSS classes so you don't have to learn CSS.
 ```
 
 
-## Backgrounds
+### Backgrounds
 
 ```
 .background-color-red {
@@ -38,7 +54,7 @@ A collection of CSS classes so you don't have to learn CSS.
 }
 ```
 
-## Font sizes
+### Font sizes
 
 ```
 .font-size-1rem {
